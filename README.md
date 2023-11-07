@@ -7,6 +7,7 @@ In particular you will
          Display some text in the document.
 # Result
 Result should look like the image below.
+
  ![image](https://github.com/fazalUllah-Khan/web-dev-coding/assets/148821704/4cd487cb-6213-4951-84a6-4c98c05808ee)
 
 # Steps
@@ -32,6 +33,7 @@ Specified words in each paragraph will be made to stand out.
 
 # Result
 Your result should look like the image below.
+
  ![image](https://github.com/fazalUllah-Khan/web-dev-coding/assets/148821704/70741b08-5e77-489d-aa2e-f94317f884d7)
 
 # Steps
@@ -41,7 +43,7 @@ Your result should look like the image below.
 •	Create a <p> element and give it the following text content: " HTML is powerful ".
 •	Wrap the word " powerful " in a <strong> element.
 # Tips
-Do a web search for the <em> and the <strong> element, and check out how they are used.
+    Do a web search for the <em> and the <strong> element, and check out how they are used.
 Why do we recommend searching? Well, at least once a day, even the most experienced developer will search the web looking for a solution to a problem they need to solve.
 Knowing how to fine-tune your internet search words and phrases is a skill every developer needs to have.
 
@@ -68,12 +70,14 @@ Knowing how to fine-tune your internet search words and phrases is a skill every
 
  # Lesson 2 - Challenge 1
 In particular, you will:
+
 •	style a <h1> element
 •	style a <p> element
 •	style an <em> element
 •	style a <strong> element
 •	You'll do this by using element selectors (style rules that have the same selector names as the HTML elements they are targeting).
 •	In this challenge, each style rule will contain one style declaration that will target its associated HTML element.
+
 # Result
 Your result should look like the image below:
  ![image](https://github.com/fazalUllah-Khan/web-dev-coding/assets/148821704/108606e3-63b8-48f2-83c9-30fd3bb0e7c6)
