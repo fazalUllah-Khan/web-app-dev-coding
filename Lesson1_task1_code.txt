@@ -1,0 +1,12 @@
+Code (index.html)
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Day 1 - Challenge 1</title>
+  </head>
+  <body>
+   <h1>My Day 1 challenge. I am Fazal !</h1>
+     <p> Hello, World! </p>
+    
+  </body>
+</html>

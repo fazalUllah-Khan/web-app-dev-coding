@@ -1,0 +1,25 @@
+Code (index.html)
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+	<!-- Set the title here -->
+    <title>Receipe 1</title>
+    
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+	<body>
+		<!-- Add your header here -->
+		<header>recipe name, image, description</header>
+		<!-- Add a section here -->
+		<section><p>ingredients list</p></section>
+		<!-- Add a section here -->
+		<section><p>preparation list</p></section>
+		<!-- Add your footer here -->
+		<footer>copyright</footer>
+		
+
+		<script src="index.js"></script>
+	</body>
+</html>
